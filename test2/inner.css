@@ -1,0 +1,40 @@
+#try{
+    background-color: #03C988;
+}
+*{
+   background-attachment: fixed;
+}
+/* #ahak{
+    margin-top: 90px;
+    padding-top: 100px;
+} */
+#maoni{
+
+    margin-top: 100px;
+    margin-bottom: 55px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+
+}
+#services{
+    background-color: #DDDDDD;
+}
+#callUs{
+    background-image: url(assets/img/banner-4.png);
+    background-attachment: fixed;
+}
+#testimonials{
+    background-image: url(assets/img/banner-3.jpg);
+    background-attachment: fixed;
+}
+#btnColor{
+    background-color: #03C988;
+
+}
+#linkColor{
+    color: #06FF00;
+}
+/* #now{
+    color: #379237;
+} */
